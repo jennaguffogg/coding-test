@@ -1,0 +1,13 @@
+ipykernel
+ipywidgets
+pandas
+numpy
+polars
+matplotlib
+seaborn
+plotly
+scikit-learn
+statsmodels
+missingno
+pandas-profiling
+
